@@ -77,3 +77,11 @@ Source:https://www.computerworld.com/article/2588287/networking-peer-to-peer-net
 This is the process where two or more PCs are connected and share resoruces without going through a separate server computer. This can be set up in a permanent infrustructure that links dozen of computer via copper wire or over a network over the internet.
 
 						Monolithic
+Source:https://www.sciencedirect.com/topics/computer-science/monolithic-application
+https://whatis.techtarget.com/definition/monolithic
+Monolithic is where an application is built as a single unit. It is a traditional programming model, this means that each program is independed and then they are interwoven with each other.
+
+						Microservice
+Source:https://www.ibm.com/cloud/learn/microservices#:~:text=Microservices%20(or%20microservices%20architecture)%20are,These%20services%20typically
+
+
