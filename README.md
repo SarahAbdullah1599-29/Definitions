@@ -1,5 +1,6 @@
-# Definitions
-                                                                          Software Delivery Cycle
+DevOps-Concept
+
+Software Delivery Cycle
 Source: https://stackify.com/what-is-sdlc/
 This is the process of creating high-quality software, otherwise best known as Software Development Life Cycle (SDLC). It focuses on the phases of Software Development that slows a software to be delivered. The main goal in producing a software is to have a product of the highest quality and lowest production cost. Hence, having a production cycle makes organizing such product easier.
 
