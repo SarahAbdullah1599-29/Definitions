@@ -83,5 +83,5 @@ Monolithic is where an application is built as a single unit. It is a traditiona
 
 						Microservice
 Source:https://www.ibm.com/cloud/learn/microservices#:~:text=Microservices%20(or%20microservices%20architecture)%20are,These%20services%20typically
-
+Microservice are an architectual and organizational appraoch to software where a software is composed of small independent services that communicate over well defined APIs. With Microservices an application is built as independent components that run each application process as a service.
 
