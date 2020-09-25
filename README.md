@@ -59,4 +59,21 @@ https://link.springer.com/article/10.1186/s13673-018-0143-8#:~:text=Reliability%
 Cloud Stability is the process of ensuring that as cloud adoption grows and continues to expand , that there is a consistency in your cloud ecosystem, whether it is private, public or hybrid cloud. 
 Cloud Reliability: This shows the probability of a system/component for performing the required function in a period of time without failure. 
 
+							Software Architecture
+Source: https://martinfowler.com/architecture/
+https://www.tutorialspoint.com/software_architecture_design/introduction.htm
+Software Archietecture referse to the notion of having a strong system designed internally, by providing this foundation it gives a much efficient software at a cheaper rate.This describes the major components, their relationships and how they interact with each other. These may include the business strategy, quality attributes , human dynamics , design and IT environment.Its main purpose serves as the blueprint for a system that desfines a structured solution to meet all the technical and operational requirement while optimizing the common attributes such as performance and security.
 
+							Software
+Source:https://searchapparchitecture.techtarget.com/definition/software
+Software is a set of instructions, data or programs used to operate computers and execute specific task , they are application software otherwise known as user-downloaded prorgams that fulfills a users needs and wants and system software that supports the application software.
+
+							Client/Server
+Source:https://www.tutorialspoint.com/Client-Server-Computing
+Client and Server is a computing relationship where the clients request resources and the server points to the resoruces. A server may serve multiple clients at the same time but a client can only work with one server. This communication is usually done over a computer network.
+
+						Peer-to-Peer
+Source:https://www.computerworld.com/article/2588287/networking-peer-to-peer-network.html
+This is the process where two or more PCs are connected and share resoruces without going through a separate server computer. This can be set up in a permanent infrustructure that links dozen of computer via copper wire or over a network over the internet.
+
+						Monolithic
